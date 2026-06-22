@@ -1,2 +1,2 @@
-Demo --- HelloWorld java program
-Simple Calucaltor java program for addition substraction dividion and multiplication
+Demo — Hello World Java Program
+Simple Calculator Java Program for Addition, Subtraction, Division, and Multiplication
